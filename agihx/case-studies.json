@@ -1,6 +1,7 @@
 [
   {
     "title": "Increasing Sales with AI-Powered Recommendations",
+    "image": "https://salespop.net/wp-content/uploads/2019/05/httpssalespop.netartificial-intelligencehow-to-increase-your-sales-through-ai-860x350.jpg",
     "client": "Ecommerce Company X",
     "date": "2024-03-12",
     "challenge": "Ecommerce Company X struggled to boost sales due to low customer engagement and ineffective product recommendations.",
@@ -11,6 +12,7 @@
   },
   {
     "title": "Streamlining Operations with Cloud-Based ERP",
+    "image": "https://apparelresources.com/wp-content/uploads/2019/08/GemsWeb-ERP.jpg",
     "client": "Manufacturing Company Y",
     "date": "2024-03-10",
     "challenge": "Manufacturing Company Y faced challenges with outdated and disparate systems, leading to inefficiencies in production, inventory management, and order processing.",
@@ -21,6 +23,7 @@
   },
   {
     "title": "Improving Patient Care with Telemedicine Solutions",
+    "image": "https://digitalhealth.folio3.com/blog/wp-content/uploads/2021/12/Telemedicine-how-does-telemedicine-improve-patient-experience.jpg",
     "client": "Healthcare Provider Z",
     "date": "2024-03-08",
     "challenge": "Healthcare Provider Z faced challenges in delivering timely care to patients, especially those in remote or underserved areas.",
